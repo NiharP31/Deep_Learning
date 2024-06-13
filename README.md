@@ -1,7 +1,7 @@
 # Deep_Learning
 This Repository is based on my Deep Learning Understanding.  
 
-1. Tensor_basics:
+1. Tensor_basics:  
    a. 1-D Scalar Vectors.  
    b. 2-D Scalar Vectors.  
    c. Tensors with random values.  
